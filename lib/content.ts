@@ -200,6 +200,7 @@ export const countryNames: Record<string, string> = {
   CL: "Chile",
   CO: "Colombia",
   PE: "Perú",
+  EC: "Ecuador",
   ES: "España",
 };
 
@@ -287,6 +288,30 @@ export const testimonials: Testimonial[] = [
     photo: "/testimonios/paola-chavez.jpeg",
     fullQuote:
       "Tuve la oportunidad de contar con el coaching de Juan Cruz y fue una experiencia muy valiosa. Tiene un estilo asertivo y directo, siempre con la intención de ayudarte a avanzar. Es una persona que te empuja a la acción, a moverte, y no quedarte solo en ideas.\n\nPor su propia experiencia, entiende muy bien los desafíos que se presentan, lo que genera una conexión genuina y que te veas reflejado en muchas de sus recomendaciones.\n\nAdemás, tiene una capacidad muy natural para movilizar, retar y acompañar, haciendo que cada conversación no solo motive, sino que deje aprendizajes claros y aplicables. Domina la metodología y sabe cómo llevarte, paso a paso, a aterrizar lo que necesitas para avanzar.\n\nSin duda, es un coach que aporta muchísimo valor en el proceso emprendedor y estoy muy agradecida por eso.",
+  },
+  {
+    quote:
+      "El acompañamiento de Juan Cruz para Retolia fue muy asertivo. Su asesoría y recomendaciones fueron muy prácticas, y su orientación basada 100% en experiencia.",
+    name: "Juan Carlos Piñuela",
+    company: "Retolia",
+    role: "Founder",
+    initials: "JP",
+    country: "EC",
+    photo: "/testimonios/juan-carlos-pinuela.jpg",
+    fullQuote:
+      "El acompañamiento de Juan Cruz para Retolia fue muy asertivo. Su asesoría y recomendaciones fueron muy prácticas, y su orientación basada 100% en experiencia. Nuestras sesiones, tanto a nivel individual como grupal fueron el apoyo fundamental para encontrar foco a la hora de entender el mercado, a nuestros clientes y escalar.",
+  },
+  {
+    quote:
+      "Tiene esa capacidad excepcional de ver el panorama completo. No solo te ayuda a redefinir la trayectoria de tu negocio, sino que despierta una visión clara e innovadora para llevarlo a un nivel que jamás habías imaginado.",
+    name: "César Koizumi",
+    company: "Modello",
+    role: "Director General",
+    initials: "CK",
+    country: "MX",
+    photo: "/testimonios/cesar-koizumi.jpg",
+    fullQuote:
+      "Juan Cruz (Cacu, como lo llamamos quienes lo conocemos de tiempo) tiene esa capacidad excepcional de ver el panorama completo. No solo te ayuda a redefinir la trayectoria de tu negocio, sino que despierta una visión clara e innovadora para llevarlo a un nivel que jamás habías imaginado.\n\nLo que verdaderamente diferencia a Cacu es su comprensión integral de una organización: entiende que las ventas no ocurren de forma aislada, sino que son la sinergia perfecta de cada área de la empresa trabajando con un mismo propósito.\n\nSu liderazgo y acompañamiento combinan una empatía profunda con un pragmatismo enfocado siempre en la eficiencia y en generar un impacto real desde las primeras sesiones.",
   },
 ];
 
